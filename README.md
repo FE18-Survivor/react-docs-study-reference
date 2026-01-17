@@ -38,7 +38,8 @@
 
 ## History
 
-|        Week        | Subjects |    Date    |
-| :----------------: | :------: | :--------: |
-| [01-1](./week-01/) |          | 2026.01.06 |
-| [01-2](./week-01/) |          | 2026.01.09 |
+|        Week        |                              Subjects                              |    Date    |
+| :----------------: | :----------------------------------------------------------------: | :--------: |
+| [01-1](./week-01/) | [useActionState](https://react.dev/reference/react/useActionState) | 2026.01.06 |
+| [02-1](./week-02/) |    [useCallback](https://react.dev/reference/react/useCallback)    | 2026.01.14 |
+| [02-2](./week-02/) |     [useContext](https://react.dev/reference/react/useContext)     | 2026.01.16 |
