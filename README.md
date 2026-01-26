@@ -38,8 +38,11 @@
 
 ## History
 
-|        Week        |                              Subjects                              |    Date    |
-| :----------------: | :----------------------------------------------------------------: | :--------: |
-| [01-1](./week-01/) | [useActionState](https://react.dev/reference/react/useActionState) | 2026.01.06 |
-| [02-1](./week-02/) |    [useCallback](https://react.dev/reference/react/useCallback)    | 2026.01.14 |
-| [02-2](./week-02/) |     [useContext](https://react.dev/reference/react/useContext)     | 2026.01.16 |
+|        Week        |                                                                  Subjects                                                                   |    Date    |
+| :----------------: | :-----------------------------------------------------------------------------------------------------------------------------------------: | :--------: |
+| [01-1](./week-01/) |                                     [useActionState](https://react.dev/reference/react/useActionState)                                      | 2026.01.06 |
+| [02-1](./week-02/) |                                        [useCallback](https://react.dev/reference/react/useCallback)                                         | 2026.01.14 |
+| [02-2](./week-02/) |                                         [useContext](https://react.dev/reference/react/useContext)                                          | 2026.01.16 |
+| [03-1](./week-03/) | [useDebugValue](https://react.dev/reference/react/useDebugValue)<br> [useDeferredValue](https://react.dev/reference/react/useDeferredValue) | 2026.01.20 |
+| [03-2](./week-03/) |                                          [useEffect](https://react.dev/reference/react/useEffect)                                           | 2026.01.23 |
+| [04-1](./week-04/) |           [useEffectEvent](https://react.dev/reference/react/useEffectEvent)<br> [useId](https://react.dev/reference/react/useId)           | 2026.01.27 |
