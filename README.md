@@ -47,3 +47,4 @@
 | [03-2](./week-03/) |                                          [useEffect](https://react.dev/reference/react/useEffect)                                           | 2026.01.23 |
 | [04-1](./week-04/) |           [useEffectEvent](https://react.dev/reference/react/useEffectEvent)<br> [useId](https://react.dev/reference/react/useId)           | 2026.01.27 |
 | [04-2](./week-04/) |                                    [useLayoutEffect](https://react.dev/reference/react/useLayoutEffect)                                     | 2026.01.30 |
+| [04-2](./week-05/) |                                            [useMemo](https://react.dev/reference/react/useMemo)                                             | 2026.02.03 |
